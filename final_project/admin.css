@@ -1,0 +1,32 @@
+body{
+    font: 20px Gill Sans, Sans-Serif;
+    font-size: 100%;
+    background: url(images/white_bg.jpg) no-repeat fixed;
+    background-size: cover;
+    padding: 2rem;
+    border: solid black;
+    border-radius: 50px;
+}
+form{
+    padding: 1rem;
+    background-color: rgb(94, 94, 94);
+    color: white;
+    border: solid black;
+    border-radius: 50px;
+}
+table{
+    padding: 1rem;
+    text-align: center;
+    border: solid black;
+    border-radius: 50px;
+}
+th{
+    background-color: black;
+    color: white;
+    padding: 0.5rem;
+}
+td{
+    background-color: rgb(83, 83, 83);
+    padding: 0.5rem;
+    color: white;
+}
